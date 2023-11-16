@@ -7,7 +7,7 @@
       <slot />
     </div>
 
-    <div class="h-screen">
+    <div class="container mx-auto">
       <Footer />
     </div>
     
