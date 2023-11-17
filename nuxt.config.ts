@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   components: true,
   devtools: { enabled: true },
+  modules: ['nuxt-swiper'],
   css: ['~/assets/css/main.css'],
   postcss: {
     plugins: {
