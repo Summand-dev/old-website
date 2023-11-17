@@ -3,7 +3,7 @@
     <div class="flex justify-center items-center">
       <Navbar/>
     </div>
-    <div class="h-screen">
+    <div class="bg-[#EBECF4] dark:bg-[#000313]">
       <slot />
     </div>
 
